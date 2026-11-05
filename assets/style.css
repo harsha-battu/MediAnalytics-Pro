@@ -1,0 +1,8 @@
+<style>
+.stApp { background: #f5f7fb; }
+section[data-testid="stSidebar"] { background: #10243e; }
+section[data-testid="stSidebar"] * { color: #f5f8ff !important; }
+h1,h2,h3 { color: #183153; }
+div[data-testid="stMetric"] { background: white; border: 1px solid #e5eaf2; padding: 16px; border-radius: 12px; }
+.stButton button[kind="primary"] { background: #1769aa; border-radius: 9px; }
+</style>
